@@ -3,14 +3,14 @@ layout: workshop      # DON'T CHANGE THIS.
 venue: "KAUST Visualization Core Lab" 
 country: "sa"
 language: "en"
-humandate: "06 October 2020"
+humandate: "9 March 2021"
 humantime: "1:00 pm  - 5:00 pm"
-startdate: 2020-10-06      
-enddate: 2020-10-06        
-instructor: ["David R. Pugh"]
+startdate: 2021-03-09      
+enddate: 2021-03-09        
+instructor: ["Dr. David R. Pugh"]
 helper: ["TBD"]
-email: ["david.pugh@kaust.edu.sa"]
-collaborative_notes: https://pad.carpentries.org/2020-10-06-kaust-vislab
+email: ["help@kaust.edu.sa"]
+collaborative_notes: https://pad.carpentries.org/2021-03-09-kaust-vislab
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
@@ -123,16 +123,6 @@ This block displays the date and links to Google Calendar.
 
 <p id="course-material">
   <strong>Course Materials:</strong> <a href="https://swcarpentry.github.io/git-novice/">Introduction to Version Control using Git for (Data) Scientists</a>
-</p>
-
-{% comment %}
-SPECIAL REQUIREMENTS
-
-Modify the block below if there are any special requirements.
-{% endcomment %}
-<p id="requirements">
-  <strong>Requirements:</strong> Participants must bring a laptop with a
-  Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed <a href="#setup">below</a>).
 </p>
 
 {% comment %}
