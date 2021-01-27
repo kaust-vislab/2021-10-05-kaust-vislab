@@ -9,7 +9,7 @@ startdate: 2021-03-09
 enddate: 2021-03-09        
 instructor: ["Dr. David R. Pugh"]
 helper: ["TBD"]
-email: ["help@kaust.edu.sa"]
+email: ["help@vis.kaust.edu.sa"]
 collaborative_notes: https://pad.carpentries.org/2021-03-09-kaust-vislab
 ---
 
