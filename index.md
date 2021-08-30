@@ -3,14 +3,14 @@ layout: workshop      # DON'T CHANGE THIS.
 venue: "KAUST Visualization Core Lab" 
 country: "sa"
 language: "en"
-humandate: "9 March 2021"
+humandate: "5 October 2021"
 humantime: "1:00 pm  - 5:00 pm"
-startdate: 2021-03-09      
-enddate: 2021-03-09        
+startdate: 2021-10-05      
+enddate: 2021-10-05        
 instructor: ["Dr. David R. Pugh"]
 helper: ["TBD"]
 email: ["help@vis.kaust.edu.sa"]
-collaborative_notes: https://pad.carpentries.org/2021-03-09-kaust-vislab
+collaborative_notes: https://pad.carpentries.org/2021-10-05-kaust-vislab
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
@@ -118,7 +118,7 @@ This block displays the date and links to Google Calendar.
 {% endif %}
 
 <p id="registration">
-  <strong>Registration:</strong> <a href="https://kaustforms.formstack.com/forms/version_control_git_data_scientists_spring_2021_kaust">KAUST Affiliated</a>, <a href="https://kaustforms.formstack.com/forms/version_control_git_data_scientists_spring_2021_non_kaust">Non-KAUST Affiliated</a>
+  <strong>Registration:</strong> <a href="https://kaustforms.formstack.com/forms/version_control_git_data_scientists_fall_2021">Register Now!</a>
 </p>
 
 <p id="course-material">
